@@ -12,4 +12,12 @@
   3. users CRUD items
   4. users can make orders / add to cart
   5. userrs can pay via paypal integration
+
+### INSTALLATION
+ > Have node js installed
+ > clone the two repos using git clone
+ > run npm install to install the dependancy modules.
+ > configure mongodb url using local machine or remote.
+ > use nodemon or node app.js for the backend and npm start for the frontend.
+ 
     
